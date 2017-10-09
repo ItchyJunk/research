@@ -1,0 +1,2 @@
+# research
+Freenode ##research
