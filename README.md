@@ -8,3 +8,6 @@ http://webchat.freenode.net?randomnick=1&channels=%23%23research&prompt=1&uio=d4
 
 Biblograpyhy tool (recommended by mefistofeles):
 https://zbib.org/
+
+List of pre-prints by field:
+https://en.wikipedia.org/wiki/Preprint#Servers_by_field
